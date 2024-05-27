@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/courses-logiclike/static/css/main.01eff735.css",
+    "main.js": "/courses-logiclike/static/js/main.3bdf11ff.js",
+    "static/js/453.db004339.chunk.js": "/courses-logiclike/static/js/453.db004339.chunk.js",
+    "index.html": "/courses-logiclike/index.html",
+    "main.01eff735.css.map": "/courses-logiclike/static/css/main.01eff735.css.map",
+    "main.3bdf11ff.js.map": "/courses-logiclike/static/js/main.3bdf11ff.js.map",
+    "453.db004339.chunk.js.map": "/courses-logiclike/static/js/453.db004339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01eff735.css",
+    "static/js/main.3bdf11ff.js"
+  ]
+}
