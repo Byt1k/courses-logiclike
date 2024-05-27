@@ -1,0 +1,26 @@
+.sidebar {
+  width: 100%;
+  padding: 12px;
+  border-radius: 18px;
+  border: 1px solid #CFCFE4;
+
+  &__item {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    width: 100%;
+    font-size: 18px;
+    line-height: 18px;
+    letter-spacing: -0.1px;
+    color: #39414B;
+    padding: 12px;
+    background-color: #fff;
+    border-radius: 12px;
+    transition: all .3s ease;
+
+    &_active {
+      background-color: #5FBF77;
+      color: #fff;
+    }
+  }
+}
